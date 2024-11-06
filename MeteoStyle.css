@@ -141,8 +141,9 @@ nav .fa {
 }
 
 h1 {
-    font-size: 36px;
+    font-size: 2rem;
     font-weight: 600;
+    color: #00a1ff;
 }
 
 p {
@@ -170,6 +171,7 @@ p {
 }
 
 h3 {
+    font-size: 2rem;
     text-align: center;
     font-weight: 600;
     margin: 10px 0;
@@ -353,7 +355,7 @@ h3 {
 .sub-header-par {
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(images/16147796.jpg);
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(https://fv9-7.failiem.lv/down.php?i=vn42k98uvd&view&n=24600855_sl_031420_28950_10.jpg);
     background-position: center;
     background-size: cover;
     text-align: center;
@@ -406,12 +408,14 @@ h3 {
 .sub-header-karte {
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(images/27.04.2023.0708.PNG);
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(https://fv9-7.failiem.lv/down.php?i=bmydv8vn4y&view&n=woman-elegant-clothes-holds-mobile-phone-surfs-wireless-internet-makes-shopping-online-sits-bench-outside-connected-wireless-internet-communicates-distantly.jpg);
     background-position: center;
     background-size: cover;
     text-align: center;
     color: white;
 }
+
+#map { position: fixed; top: 50%; bottom: 0; width: 50%; height: 50%; margin: auto; margin-left: 22%;}
 
 .LVGMC_karte {
     width: 100%;
@@ -460,7 +464,7 @@ h3 {
 .sub-header-salīdzinājumi {
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(images/climate.png);
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(https://fv9-7.failiem.lv/down.php?i=36wqh9rytu&view&n=7732602_5229.jpg);
     background-position: center;
     background-size: cover;
     text-align: center;
